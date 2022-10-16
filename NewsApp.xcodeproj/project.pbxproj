@@ -14,6 +14,7 @@
 		E57C148128FC43F300050F55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E57C148028FC43F300050F55 /* Assets.xcassets */; };
 		E57C148428FC43F300050F55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E57C148228FC43F300050F55 /* LaunchScreen.storyboard */; };
 		E57C148C28FC488A00050F55 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57C148B28FC488A00050F55 /* APICaller.swift */; };
+		E57C148E28FC761500050F55 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57C148D28FC761500050F55 /* NewsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E57C148328FC43F300050F55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E57C148528FC43F300050F55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E57C148B28FC488A00050F55 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
+		E57C148D28FC761500050F55 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E57C148228FC43F300050F55 /* LaunchScreen.storyboard */,
 				E57C148528FC43F300050F55 /* Info.plist */,
 				E57C148B28FC488A00050F55 /* APICaller.swift */,
+				E57C148D28FC761500050F55 /* NewsTableViewCell.swift */,
 			);
 			path = NewsApp;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				E57C147C28FC43F000050F55 /* ViewController.swift in Sources */,
 				E57C147828FC43F000050F55 /* AppDelegate.swift in Sources */,
+				E57C148E28FC761500050F55 /* NewsTableViewCell.swift in Sources */,
 				E57C147A28FC43F000050F55 /* SceneDelegate.swift in Sources */,
 				E57C148C28FC488A00050F55 /* APICaller.swift in Sources */,
 			);
